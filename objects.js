@@ -1,3 +1,1 @@
-var objects = function playlist() {
-object.assign()
-}
+var playlist = { name:'title' };
