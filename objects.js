@@ -1,1 +1,2 @@
-var objects = new playlist({ artist names: "song title"})
+var objects = playlist{};
+var objects = object(playlist)
