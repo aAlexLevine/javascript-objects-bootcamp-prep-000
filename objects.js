@@ -1,1 +1,2 @@
-var objects = {playlist}
+var objects = {"playlist"}
+
